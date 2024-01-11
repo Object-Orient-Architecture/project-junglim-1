@@ -72,5 +72,3 @@ def extract_data_to_dict():
             if layer.Index == obj.Attributes.LayerIndex:
                 object_by_layer[layer.Name].append(obj)
     return object_by_layer
-
-테스트 해봅시다

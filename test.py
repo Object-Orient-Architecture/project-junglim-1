@@ -6,7 +6,7 @@ test_list.sort()
 print(test_list)
 
 """
-
+바꿨습니다.
 
 # test_list.sort()
 # test_list_sorted = sorted(test_list)

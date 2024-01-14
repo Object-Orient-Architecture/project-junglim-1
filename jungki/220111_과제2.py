@@ -27,7 +27,6 @@ for i in range(x_count):
         if is_pt_inside_curve(point, space2):
             points.append(point)
 
-
 point_and_connectivity_tuple = []
 for i in points:
     valid_lines =[]
